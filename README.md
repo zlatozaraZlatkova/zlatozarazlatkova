@@ -1,4 +1,4 @@
-### Hi, I'm Zlatozara Zlatkova!👋
+### Hi, I'm Zlatozara Zlatkova! :octocat:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlatozarazlatkova&label=Profile%20views&color=0e75b6&style=flat" alt="zlatozarazlatkova" /> </p>
 
