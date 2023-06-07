@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlatozarazlatkova&label=Profile%20views&color=0e75b6&style=flat" alt="zlatozarazlatkova" /> </p>
 
 
-✨Front-End Dev in training, creating awesome stuff. **Always learning, always creating!**
+✨Front-End Dev in training, creating awesome stuff. **There's always "one more thing" to learn!**
 
 
 <h3 align="left">Languages and Tools</h3>
