@@ -14,7 +14,7 @@
 
 
 
-|  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zlatozarazlatkova&" alt="zlatozarazlatkova" /></p>       |    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zlatozarazlatkova&show_icons=true&locale=en&layout=compact" alt="zlatozarazlatkova"/> </a>      |
+|  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zlatozarazlatkova&" alt="zlatozarazlatkova"/></p>     |    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zlatozarazlatkova&show_icons=true&locale=en&layout=compact" alt="zlatozarazlatkova"/> </a>     |
 | ------------- | ------------- | 
 
-  
+ 
