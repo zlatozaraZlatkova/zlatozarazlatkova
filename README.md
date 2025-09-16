@@ -87,7 +87,7 @@ developer.currentFocus = "Building scalable Angular apps";
   <img align="left" alt="Karma" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" />
   <img align="left" alt="Jasmine" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original.svg" />
 </p>
-<br>
+<br><br><br>
 
 <h3 align="left">GitHub Stats</h3> 
 
