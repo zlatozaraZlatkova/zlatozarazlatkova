@@ -91,5 +91,5 @@ developer.currentFocus = "Building scalable Angular apps";
 
 <h3 align="left">GitHub Stats</h3> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zlatozarazlatkova" alt="GitHub Streak Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatozarazlatkova&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" /> |
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=zlatozarazlatkova" alt="GitHub Streak Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatozarazlatkova&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" /> |
 |:---:|:---:|
