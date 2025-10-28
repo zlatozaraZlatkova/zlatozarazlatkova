@@ -1,69 +1,50 @@
-### const welcome = () => "Hello, World! I'm Zara 👋";  
-<div>
-  <img align="right" src="https://octodex.github.com/images/kimonotocat.png" width="200" style="margin-left: 20px; margin-bottom: 20px;"/>
-  
-  <pre><code>class JuniorDeveloper {
-    private _currentFocus: string = "Angular & TypeScript";
-    
-    constructor(
-        public readonly name: string = "Zara",
-        public role: string = "Junior Front-End Developer",
-        public status: string = "Ready to code! 🚀"
-    ) {}
-    
-    get skills(): Record<string, string> {
-        return {
-            "🟨 JavaScript": "Intermediate",
-            "🅰️ Angular": "Intermediate",
-            "⚛️ React": "Intermediate",
-            "📘 TypeScript": "Good",
-            "🌐 HTML5/CSS3": "Good",
-            "🟢 Node.js": "Intermediate",
-            "🍃 MongoDB": "Intermediate",
-            "🧪 Karma/Jasmine": "Good",
-            "🍵 Mocha/Chai": "Good",
-            "🔧 DevOps": "Learning",
-        };
-    }
-      
-    get certificates(): string[] {
-        return [
-            "🎓 <a href="https://softuni.bg/certificates/details/250296/6defca5e">Front-End Dev with JS - SoftUni 2025</a>",
-            "💻 <a href="https://www.codecademy.com/profiles/zlatozara">Web Development Courses - Codecademy</a>",
-        ];
-    }  
-      
-    get currentFocus(): string {
-        return this._currentFocus;
-    }
-    
-    set currentFocus(focus: string) {
-        this._currentFocus = focus;
-    }
-    
-    achievements(): string[] {
-        return [
-            "🥇 1st Place – Angular Course Project Competition, SoftUni 2025",
-            "🥇 1st Place – EPG Rocket Club Award, Germany 2021",
-        ];
-    }
-    
-    nextGoals(): string[] {
-        return [
-            "🎯 Master Angular advanced patterns",
-            "⚡ Build full-stack applications",
-            "🤝 Contribute to open source",
-        ];
-    }
-}
+## 👋 Introduction & Bio
+### Hi, I am Zlatozara Zlatkova
 
-const developer = new JuniorDeveloper();
-developer.currentFocus = "Building scalable Angular apps";
-</code></pre>
+Building scalable web applications with clean code and comprehensive testing.
 
-  <div style="clear: both;"></div>
-</div>
+---
 
+- 🏆 **1st place Software University Angular Competition Winner 2025** (190+ participants)
+- 🥇 **1st place EPG Rocket Club Award 2021** (Germany)
+- 🚀 **Microsoft for Startups Alumni** (2021-2023)
+- 💼 **7+ years Product Management** → Full-Stack Developer
+- 💻 **20,000+ lines of production code** deployed
+- 🎯 **3 full-stack applications** built in 12 months
+- 🧪 **75%+ test coverage** advocate
+
+---
+
+## 🔭 Projects
+
+### 📝 [MEAN Blogger Platform](https://github.com/zlatozaraZlatkova/Blogger)
+Full-stack social blogging platform with real-time features
+- **Tech:** Angular v16, TypeScript, RxJS, Node.js, Express, MongoDB
+- **Features:** Authentication, social interactions, real-time updates, Google Drive API
+- **Stats:** 12,000+ lines of code
+
+### 💼 [MERN Job Board](https://github.com/zlatozaraZlatkova/jobs-web-app)
+Modern job board connecting employers with developers
+- **Tech:** React, Node.js, Express, MongoDB, GitHub API
+- **Features:** Job management, GitHub integration, advanced search
+- **Stats:** 11,000+ lines of code
+
+### 📊 [STAT Data Visualization](https://github.com/zlatozaraZlatkova/STAT-Data-View)
+Interactive data visualization for economic indicators
+- **Tech:** Angular, TypeScript, Chart.js, Eurostat API
+- **Features:** Real-time data, multi-axis charts, RSS integration
+- **Stats:** 3,000+ lines of code
+---
+
+## 🌟 What I'm Currently Working On
+
+- 🎯 Mastering advanced Angular patterns and architecture
+- ☁️ Learning containers and cloud deployment (Docker, AWS, Azure)
+- 🏗️ Building microservices with Node.js
+- 🤝 Contributing to open-source Angular projects
+- 📚 Applying principles from Deep Work, Atomic Habits, and Principles
+
+---
 
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools</h3>
 
