@@ -10,7 +10,7 @@
 - 🧪 **75%+ test coverage** advocate
 
 #### 📚 Education
-- 🌐 Software University (2023 - 2025) - <a href="https://softuni.bg/certificates/details/250296/6defca5e">Professional degree in Software Engineering</a>
+- 🌐 Software University (2023 - 2025) - <a href="https://softuni.bg/certificates/details/260117/7f77d73a">Professional degree in Software Engineering</a>
 
 
 
